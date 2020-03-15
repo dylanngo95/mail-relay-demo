@@ -2,8 +2,8 @@ var nodemailer = require('nodemailer');
 var smtpTransport = require('nodemailer-smtp-transport');
 
 var mailOptions = {
-    from: 'gjundat222@gmail.com',
-    to: 'it.tinhngo@gmail.com',
+    from: 'demo@gmail.com',
+    to: 'it.demo@gmail.com',
     subject: 'sample subject',
     text: 'sample text',
     html: '<b>sample html</b>',
