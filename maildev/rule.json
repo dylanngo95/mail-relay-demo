@@ -1,0 +1,7 @@
+[
+	{ "allow": "*" },
+	{ "deny":  "*@gmail.com" },
+	{ "allow": "ok@test.com" },
+	{ "deny":  "*@utah.com" },
+	{ "allow": "johnny@utah.com" }
+]
